@@ -118,6 +118,5 @@ Completed training covering:
 
 I'm actively looking for **Fresher / Entry-Level opportunities** in:
 
-**Java Development | Java Full-Stack Development | Software Testing | Automation Testing | Frontend Developer | Backend Developer**
-
+**Java Full-Stack Developer | Java Developer | Software Test Engineer | Automation & Manual Testing | Frontend & Backend Development**
 ⭐ Feel free to explore my repositories and projects!
