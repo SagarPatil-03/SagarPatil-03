@@ -54,7 +54,7 @@ I'm a passionate **IT graduate and fresher** interested in developing web applic
 
 ## 🎓 Training
 
-**Java Full-Stack Development Training — QSpiders, Wakad, Pune**
+**Java Full-Stack Development Internship— Sunanda Infotech Pvt.Ltd Nashik**
 
 Completed training covering:
 
