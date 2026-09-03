@@ -9,9 +9,9 @@ I'm a passionate **IT graduate and fresher** interested in developing web applic
 * 🎓 BE in Information Technology
 * 💻 Java Full-Stack Developer
 * 🧪 Interested in Manual & Automation Testing
-* 📚 Completed Java Full-Stack Development Training at **QSpiders, Wakad, Pune**
+* 📚 Completed Software Test Engineer Course at **QSpiders, Wakad, Pune**
 * 🚀 Passionate about building real-world applications
-* 🌱 Currently improving my Java, Spring Boot, Selenium, and DSA skills
+* 🌱 Currently improving my Java, Spring Boot, Selenium, and DSA skills,TestNG
 
 ## 🛠️ Technical Skills
 
