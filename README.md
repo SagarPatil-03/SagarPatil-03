@@ -11,7 +11,7 @@ I'm a passionate **IT graduate and fresher** interested in developing web applic
 * 🧪 Interested in Manual & Automation Testing
 * 📚 Completed Software Test Engineer Course at **QSpiders, Wakad, Pune**
 * 🚀 Passionate about building real-world applications
-* 🌱 Currently improving my Java, Spring Boot, Selenium, and DSA skills,TestNG
+* 🌱 Currently improving my Java, Spring Boot, Selenium, DSA, and TestNG skills
 
 ## 🛠️ Technical Skills
 
@@ -42,6 +42,7 @@ I'm a passionate **IT graduate and fresher** interested in developing web applic
 * Selenium WebDriver
 * Test Case Design
 * Functional Testing
+* TestNG
 
 ### Tools
 
@@ -54,7 +55,7 @@ I'm a passionate **IT graduate and fresher** interested in developing web applic
 
 ## 🎓 Training
 
-**Java Full-Stack Development Internship— Sunanda Infotech Pvt.Ltd Nashik**
+**Java Full-Stack Development Internship — Sunanda Infotech Pvt. Ltd., Nashik**
 
 Completed training covering:
 
@@ -119,4 +120,11 @@ Completed training covering:
 I'm actively looking for **Fresher / Entry-Level opportunities** in:
 
 **Java Full-Stack Developer | Java Developer | Software Test Engineer | Automation & Manual Testing | Frontend & Backend Development**
+
+### 🔗 My Profiles
+
+* 💼 **LinkedIn:** https://www.linkedin.com/in/sagar-patil-494aa826/
+* 🧑‍💻 **LeetCode:** https://leetcode.com/u/sagar_Patil123/
+* 🐙 **GitHub:** https://github.com/SagarPatil-03
+
 ⭐ Feel free to explore my repositories and projects!
