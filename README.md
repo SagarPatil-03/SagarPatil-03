@@ -70,6 +70,13 @@ Completed training covering:
 
 ## 🚀 Projects
 
+## 📈 SuperStore Sales Analysis — Power BI
+
+Analyzed SuperStore sales data using Power BI
+Created interactive dashboards to analyze Sales, Profit, Category, Region, and Sub-Category
+Used filters, charts, and visualizations to identify sales trends and business insights
+Tools: Power BI, Excel
+
 ### 🛒 E-Commerce Selenium Testing Project
 
 * Automated e-commerce website testing using Selenium WebDriver
