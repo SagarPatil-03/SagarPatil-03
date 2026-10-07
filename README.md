@@ -1,6 +1,6 @@
 # Hi 👋, I'm Sagar Patil
 
-### Java Full-Stack Developer | Java Developer | Software Test Engineer | Automation & Manual Testing | Frontend & Backend Development
+### Java Full-Stack Developer | Java Developer | Software Test Engineer | Automation & Manual Testing | Frontend & Backend Development | Python | Basic Power BI | Excel 
 
 I'm a passionate **IT graduate and fresher** interested in developing web applications, backend systems, and software testing. I enjoy learning new technologies and building practical projects.
 
